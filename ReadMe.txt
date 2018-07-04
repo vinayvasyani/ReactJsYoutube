@@ -1,2 +1,1 @@
-cmd $>npm run dev .. will run the webserver. Copy and paste url to browser to see the webpage.
-Search the youtube video, click on the search results on right to play any video just like Youtube Page. 
+cmd $>npm start .. will run the webserver on port 8080. Browse to localhost:8080 to view the app
